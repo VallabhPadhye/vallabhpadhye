@@ -22,6 +22,7 @@ I'm a passionate Data Engineer with hands-on experience in designing and optimiz
 ![Informatica](https://img.shields.io/badge/-Informatica-FF4D00?style=flat&logo=informatica&logoColor=white)
 ![Snowflake](https://img.shields.io/badge/-Snowflake-29B5E8?style=flat&logo=snowflake&logoColor=white)
 ![Apache Spark](https://img.shields.io/badge/-Apache%20Spark-E25A1C?style=flat&logo=apache-spark&logoColor=white)
+![Autosys](https://img.shields.io/badge/-Autosys-0052CC?style=flat&logoColor=white)
 
 **Cloud & Tools:**  
 ![Azure](https://img.shields.io/badge/-Microsoft%20Azure-0089D6?style=flat&logo=microsoft-azure&logoColor=white)
