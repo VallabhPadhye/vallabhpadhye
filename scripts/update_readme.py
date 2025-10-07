@@ -12,7 +12,7 @@ def get_recent_repos(count=3):
     }
     
     # Add token if available for higher rate limits
-    token = os.environ.get("readmepy")
+    token = os.environ.get("READMEPY")
     if token:
         headers["Authorization"] = f"token {token}"
     
