@@ -13,7 +13,18 @@ I'm a passionate Data Engineer with hands-on experience in designing and optimiz
 ## Recent Projects
 
 <!--START_SECTION:repositories-->
-<!-- This section will be automatically updated by GitHub Actions -->
+### 🌐 [vallabhpadhye](https://github.com/VallabhPadhye/vallabhpadhye)
+None
+
+**Language:** `HTML` 
+
+### 📜 [register](https://github.com/VallabhPadhye/register)
+Grab your own sweet-looking '.is-a.dev' subdomain.
+
+**Language:** `JavaScript` 
+
+### 📁 [n8nDaddy](https://github.com/VallabhPadhye/n8nDaddy)
+None
 <!--END_SECTION:repositories-->
 
 ## Tech Stack
