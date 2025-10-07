@@ -1,7 +1,6 @@
 # Hi there, I'm Vallabh Padhye 👋
 
 ## About Me
-
 I'm a passionate Data Engineer with hands-on experience in designing and optimizing ETL pipelines. Currently working as a Programmer Analyst at Cognizant, I specialize in automating data workflows, enhancing data quality, and delivering scalable, cloud-based data solutions.
 
 - 🔭 I'm currently working on large-scale data migration projects and ETL pipeline optimization
@@ -10,6 +9,12 @@ I'm a passionate Data Engineer with hands-on experience in designing and optimiz
 - 💬 Ask me about Python, PySpark, SQL, Snowflake, IICS, Azure, and ETL pipeline development
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/vallabhpadhye/)
 - ⚡ I love building reusable ETL frameworks and solving complex data challenges
+
+## Recent Projects
+
+<!--START_SECTION:repositories-->
+<!-- This section will be automatically updated by GitHub Actions -->
+<!--END_SECTION:repositories-->
 
 ## Tech Stack
 
