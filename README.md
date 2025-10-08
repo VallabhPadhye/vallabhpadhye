@@ -13,6 +13,11 @@ I'm a passionate Data Engineer with hands-on experience in designing and optimiz
 ## Recent Projects
 
 <!--START_SECTION:repositories-->
+### 📁 [PySpark](https://github.com/VallabhPadhye/PySpark)
+None
+
+**Language:** `Jupyter Notebook` 
+
 ### 🌐 [vallabhpadhye](https://github.com/VallabhPadhye/vallabhpadhye)
 personalreadme
 
@@ -21,10 +26,7 @@ personalreadme
 ### 📜 [register](https://github.com/VallabhPadhye/register)
 Grab your own sweet-looking '.is-a.dev' subdomain.
 
-**Language:** `JavaScript` 
-
-### 📁 [n8nDaddy](https://github.com/VallabhPadhye/n8nDaddy)
-n8nDaddy is an intelligent agent that generates n8n workflow JSON scripts and detailed instructions based on your requirements, gathered through natural conversation via Telegram. No more complex workflow building - just describe what you need, and n8nDaddy delivers ready-to-use n8n agents directly to your inbox.
+**Language:** `JavaScript`
 <!--END_SECTION:repositories-->
 
 ## Tech Stack
