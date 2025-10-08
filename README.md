@@ -18,15 +18,13 @@ personalreadme
 
 **Language:** `HTML` 
 
-### 📁 [n8nDaddy](https://github.com/VallabhPadhye/n8nDaddy)
-n8nDaddy is an intelligent agent that generates n8n workflow JSON scripts and detailed instructions based on your requirements, gathered through natural conversation via Telegram. No more complex workflow building - just describe what you need, and n8nDaddy delivers ready-to-use n8n agents directly to your inbox.
-
-
-
 ### 📜 [register](https://github.com/VallabhPadhye/register)
 Grab your own sweet-looking '.is-a.dev' subdomain.
 
-**Language:** `JavaScript`
+**Language:** `JavaScript` 
+
+### 📁 [n8nDaddy](https://github.com/VallabhPadhye/n8nDaddy)
+n8nDaddy is an intelligent agent that generates n8n workflow JSON scripts and detailed instructions based on your requirements, gathered through natural conversation via Telegram. No more complex workflow building - just describe what you need, and n8nDaddy delivers ready-to-use n8n agents directly to your inbox.
 <!--END_SECTION:repositories-->
 
 ## Tech Stack
