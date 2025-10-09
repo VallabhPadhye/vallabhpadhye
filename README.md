@@ -13,7 +13,7 @@ I'm a passionate Data Engineer with hands-on experience in designing and optimiz
 ## Recent Projects
 
 <!--START_SECTION:repositories-->
-### 🌐 [vallabhpadhye](https://github.com/VallabhPadhye/vallabhpadhye)
+<!---### 🌐 [vallabhpadhye](https://github.com/VallabhPadhye/vallabhpadhye)-->
 personalreadme
 
 **Language:** `HTML` 
