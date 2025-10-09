@@ -10,25 +10,6 @@ I'm a passionate Data Engineer with hands-on experience in designing and optimiz
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/vallabhpadhye/)
 - ⚡ I love building reusable ETL frameworks and solving complex data challenges
 
-## Recent Projects
-
-<!--START_SECTION:repositories-->
-### 🌐 [vallabhpadhye](https://github.com/VallabhPadhye/vallabhpadhye)
-personalreadme
-
-**Language:** `HTML` 
-
-### 📁 [PySpark](https://github.com/VallabhPadhye/PySpark)
-None
-
-**Language:** `Jupyter Notebook` 
-
-### 📜 [register](https://github.com/VallabhPadhye/register)
-Grab your own sweet-looking '.is-a.dev' subdomain.
-
-**Language:** `JavaScript`
-<!--END_SECTION:repositories-->
-
 ## Tech Stack
 
 **Languages:**  
